@@ -1,4 +1,5 @@
-# SmartTuor
+# SmartTuor ![7 de abr  de 2025, 14_20_55](https://github.com/user-attachments/assets/e59cfe9f-4bfd-4e48-90dd-3ee343041150)
+
 SmartTuor é um aplicativo inovador que sugere roteiros turísticos otimizados, utilizando técnicas de teoria dos grafos e integração com APIs gratuitas como Overpass e OSRM. O sistema permite ao usuário planejar sua visita considerando restrições como:
 - Tempo disponível (número de dias, horários de início e fim)
 - Pausas obrigatórias (almoço, jantar)
